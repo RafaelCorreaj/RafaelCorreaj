@@ -72,9 +72,15 @@ Plataforma completa para organizadores de eventos de médio e grande porte — s
 
 ### ☕ CaffeineHouse
 
-Sistema de gerenciamento para cafeterias.
+Minha software house nascida em Belém, com a alma de um cyber café e o compromisso de transformar ideias em sistemas que funcionam de verdade.
 
-**Stack:** Java, Spring Boot, MySQL, React
+Atualmente, nosso foco é ajudar profissionais liberais, ONGs e pequenas empresas a terem presença digital simples e eficiente — com sites e landing pages que comunicam bem, convertem visitantes e cabem no orçamento.
+
+Em paralelo, estamos desenvolvendo o EventFlow, uma plataforma completa para gestão e venda de ingressos de eventos de grande porte.
+
+Stack principal: JavaScript, React, Node.js, AWS, bancos SQL e NoSQL
+
+Saiba mais em: caffeinehouse.com.br
 
 ---
 
@@ -82,9 +88,9 @@ Sistema de gerenciamento para cafeterias.
 
 | Canal | Link |
 |-------|------|
-| 💼 LinkedIn | [linkedin.com/in/rafaelcorrea](https://linkedin.com/in/rafaelcorrea) |
-| 📷 Instagram | [@rafaelcorrea](https://instagram.com/rafaelcorrea) |
-| 🎥 YouTube | [@rafaelcorrea](https://youtube.com/@rafaelcorrea) |
+| 💼 LinkedIn | [linkedin.com/in/rafaelcorrea](https://linkedin.com/in/rafaelcorreaj) |
+| 📷 Instagram | [@rafaelcorrea](https://instagram.com/rafaelcorreaj) |
+| 🎥 YouTube | [@rafaelcorrea](https://youtube.com/@rafaelcorreaj) |
 | 📧 E-mail | rafael@eventflow.com |
 
 ---
