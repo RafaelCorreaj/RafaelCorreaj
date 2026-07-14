@@ -46,9 +46,7 @@ I believe technology is best learned by **doing** and **sharing**. And with that
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=RafaelCorreaj&show_icons=true&theme=dark&hide_border=true" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelCorreaj&theme=dark&hide_border=true" width="400" /> |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCorreaj&layout=compact&theme=dark&hide_border=true" width="400" /> | <img src="https://github-profile-trophy.vercel.app/?username=RafaelCorreaj&theme=darkhub&no-frame=true&row=2&column=3" width="400" /> |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelCorreaj&theme=dark&hide_border=true)
 
 ---
 
