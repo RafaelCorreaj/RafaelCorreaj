@@ -4,9 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafaelcorreaj)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rafaelcorreaj)
 
+
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About me
 
 My name is **Rafael Corrêa**. I'm a software developer and active student leader at the **AWS Builder Center**, AWS's official community and cloud learning platform.
 
@@ -17,6 +18,18 @@ I'm the creator of **CaffeineHouse** and currently building **EventFlow** — a 
 In my publications and articles, I focus on practical topics that help others take their first steps in technology — such as guides on creating a free AWS account, reflections on architecture and the importance of backup, and discussions on building strong, collaborative IT communities.
 
 I believe technology is best learned by **doing** and **sharing**. And with that mindset, I'm always open to exchanging ideas, helping those just starting out, and learning from those who are already further along.
+
+## 🧑‍💻 🇧🇷 Sobre mim (Português)
+
+Meu nome é **Rafael Corrêa**. Sou desenvolvedor de software e líder estudantil ativo no **AWS Builder Center**, a comunidade oficial e plataforma de aprendizado em nuvem da AWS.
+
+Meu trabalho gira em torno de três pilares: **arquitetura de software**, **resolução de problemas** e **ensino de computação em nuvem para iniciantes**.
+
+Sou o criador da **CaffeineHouse** e atualmente estou construindo o **EventFlow** — uma plataforma completa de gestão de eventos com emissão de ingressos NFT na rede Polygon.
+
+Nas minhas publicações e artigos, foco em temas práticos que ajudam outras pessoas a dar os primeiros passos na tecnologia — como guias para criar uma conta gratuita na AWS, reflexões sobre arquitetura e a importância de backup, e discussões sobre a construção de comunidades de TI fortes e colaborativas.
+
+Acredito que a tecnologia é melhor aprendida **fazendo** e **compartilhando**. E com essa mentalidade, estou sempre aberto a trocar ideias, ajudar quem está começando e aprender com quem já está mais avançado.
 
 ---
 
