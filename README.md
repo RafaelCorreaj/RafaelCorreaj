@@ -85,15 +85,15 @@ Plataforma completa para organizadores de eventos de médio e grande porte — s
 
 ### ☕ CaffeineHouse
 
-Minha software house nascida em Belém, com a alma de um cyber café e o compromisso de transformar ideias em sistemas que funcionam de verdade.
+Minha software house nascida em Belém, com alma de cyber café e o compromisso de transformar ideias em sistemas que funcionam de verdade.
 
-Atualmente, nosso foco é ajudar profissionais liberais, ONGs e pequenas empresas a terem presença digital simples e eficiente — com sites e landing pages que comunicam bem, convertem visitantes e cabem no orçamento.
+Atualmente, nosso foco está em ajudar profissionais liberais, ONGs e pequenas empresas a construírem sua presença digital de forma simples e eficiente — com sites e landing pages que comunicam bem, convertem visitantes e cabem no orçamento.
 
-Em paralelo, estamos desenvolvendo o EventFlow, uma plataforma completa para gestão e venda de ingressos de eventos de grande porte.
+Em paralelo, estamos desenvolvendo o **EventFlow**, uma plataforma completa para gestão e venda de ingressos de eventos de grande porte.
 
-Stack principal: JavaScript, React, Node.js, AWS, bancos SQL e NoSQL
+**Stack principal:** JavaScript, React, Node.js, AWS, bancos SQL e NoSQL
 
-Saiba mais em: caffeinehouse.com.br
+🔗 [caffeinehouse.com.br](https://caffeinehouse.com.br)
 
 ---
 
