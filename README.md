@@ -88,10 +88,10 @@ Saiba mais em: caffeinehouse.com.br
 
 | Canal | Link |
 |-------|------|
-| 💼 LinkedIn | [linkedin.com/in/rafaelcorrea](https://linkedin.com/in/rafaelcorreaj) |
-| 📷 Instagram | [@rafaelcorrea](https://instagram.com/rafaelcorreaj) |
-| 🎥 YouTube | [@rafaelcorrea](https://youtube.com/@rafaelcorreaj) |
-| 📧 E-mail | rafael@eventflow.com |
+| 💼 LinkedIn | [linkedin.com/in/rafaelcorreaj](https://linkedin.com/in/rafaelcorreaj) |
+| 📷 Instagram | [@rafaelcorreaj](https://instagram.com/rafaelcorreaj) |
+| 🎥 YouTube | [@rafaelcorreaj](https://youtube.com/@rafaelcorreaj) |
+| 📧 E-mail | caffeinehouse@gmail.com |
 
 ---
 
