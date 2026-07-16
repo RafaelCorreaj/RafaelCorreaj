@@ -104,7 +104,7 @@ Em paralelo, estamos desenvolvendo o **EventFlow**, uma plataforma completa para
 | 💼 LinkedIn | [linkedin.com/in/rafaelcorreaj](https://linkedin.com/in/rafaelcorreaj) |
 | 📷 Instagram | [@rafaelcorreaj](https://instagram.com/rafaelcorreaj) |
 | 🎥 YouTube | [@rafaelcorreaj](https://youtube.com/@rafaelcorreaj) |
-| 📧 E-mail | caffeinehouse@gmail.com |
+| 📧 E-mail | rafaelcorreaj@caffeinehouse.com.br |
 
 ---
 
